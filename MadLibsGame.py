@@ -1,0 +1,12 @@
+print("Welcome to Mad Libs!")
+adj1 = input("Enter an adjective: ")
+verb1 = input("Enter a verb: ")
+noun1 = input("Enter a noun: ")
+adj2 = input("Enter another adjective: ")
+noun2 = input("Enter another noun: ")
+verb2 = input("Enter another verb: ")
+
+print("Once upon a time, there was a", adj1, noun1, "who loved to", verb1, ".")
+print("One day, a", adj2, noun2, "came along and challenged the", noun1, "to a race.")
+print("The", noun1, "accepted the challenge and", verb2, "as fast as possible.")
+print("In the end, the", noun1, "won the race and was very happy.")
